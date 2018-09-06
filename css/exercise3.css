@@ -1,0 +1,13 @@
+body {
+    background: #32c8e3;
+}
+
+div.name {
+    font-size: 50px;
+    text-align: center;
+}
+
+div.photo {
+    text-align: center;
+    border: solid 12px #dcee86;
+}
